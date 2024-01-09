@@ -1,4 +1,6 @@
 notes from the Chapter 1 and C++ interlude 1: 
+
+
 1.Encapsulation:
 
 Definition: Encapsulation is a way of organizing code by bundling data (variables) and the methods that operate on the data within a single unit (class). It restricts direct access to some of an object's components and only allows access through designated methods.
